@@ -9,6 +9,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin/in/guilherme-jrodrigues)
 [![Prototipo](https://img.shields.io/badge/MarvelApp-1FB6FF.svg?style=for-the-badge&logo=MarvelApp&logoColor=white)](https://marvelapp.com/prototype/fdd7jc6)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/12991857311/)
+<a href="mailto:{{ value }}"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a>
 
 ![Gui GitHub stats](https://github-readme-stats.vercel.app/api?username=guirdgrs&show_icons=true&theme=synthwave)
 
@@ -38,3 +39,9 @@ Além de estudante de tecnologia da informação também estou fazendo bacharela
 
 안녀하세요! 저는 길례르미입니다!
 저는 고양이, 커피, 프로그래밍을 너무 좋아요!
+
+<hr>
+
+## Último projeto
+[![Projeto](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/guirdgrs/MedTime)
+
