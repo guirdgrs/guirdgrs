@@ -7,7 +7,6 @@
 <hr>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin/in/guilherme-jrodrigues)
-[![Prototipo](https://img.shields.io/badge/MarvelApp-1FB6FF.svg?style=for-the-badge&logo=MarvelApp&logoColor=white)](https://marvelapp.com/prototype/fdd7jc6)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/12991857311/)
 <a href="mailto:{{ value }}"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a>
 
@@ -43,4 +42,5 @@ Além de estudante de tecnologia da informação também estou fazendo bacharela
 
 ## Último projeto
 [![Projeto](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/guirdgrs/MedTime)
+[![Prototipo](https://img.shields.io/badge/MarvelApp-1FB6FF.svg?style=for-the-badge&logo=MarvelApp&logoColor=white)](https://marvelapp.com/prototype/fdd7jc6)
 
