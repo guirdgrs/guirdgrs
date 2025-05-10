@@ -55,5 +55,4 @@ I've been studying **Korean** for over a year!
 
 ## 🚀 Latest Project
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/guirdgrs/MedTime)
-[![MarvelApp](https://img.shields.io/badge/MarvelApp-1FB6FF.svg?style=for-the-badge&logo=MarvelApp&logoColor=white)](https://marvelapp.com/prototype/fdd7jc6)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/guirdgrs/readify)
