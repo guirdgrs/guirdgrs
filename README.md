@@ -6,9 +6,6 @@
   <a href="https://linkedin.com/in/guilherme-jrodrigues">
     <img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://wa.me/12991857311">
-    <img src="https://img.shields.io/badge/WhatsApp-8A2BE2?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  </a>
   <a href="mailto:josrodriguesguilherme@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
