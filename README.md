@@ -1,7 +1,3 @@
-<p align="center">
-  <img alt="Kitten" src="https://i.pinimg.com/enabled_lo/564x/32/be/57/32be5713ce12fae4c80c028d75710129.jpg" width="300"/>
-</p>
-
 <h1 align="center">Hi there! I'm Guilherme — I love cats, coffee, and coding! 🐈</h1>
 
 ---
